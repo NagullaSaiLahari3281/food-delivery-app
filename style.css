@@ -83,3 +83,13 @@ button {
   background: red;
   color: white;
 }
+@media (max-width: 768px) {
+  .menu {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .card {
+    width: 90%;
+  }
+}
