@@ -3,7 +3,12 @@
 A responsive and interactive Food Delivery Web Application built using HTML, CSS, and JavaScript.
 This project allows users to browse food items, search for dishes, add items to the cart, and place orders through a simple and user-friendly interface.
 
-🚀 Features
+🌐 Live Demo
+
+👉 [https://nagullasailahari3281.github.io/food-delivery-app/⁠�](https://nagullasailahari3281.github.io/food-delivery-app/)
+
+
+🚀 Features:
 
 🔍 Search food items
 
@@ -26,10 +31,6 @@ CSS3
 
 JavaScript
 
-
-🌐 Live Demo
-
-👉 [https://nagullasailahari3281.github.io/food-delivery-app/⁠�](https://nagullasailahari3281.github.io/food-delivery-app/)
 
 👩‍💻 Developed By
 
